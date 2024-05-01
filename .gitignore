@@ -1,0 +1,11 @@
+#Python files
+app.py
+feedback_clfr.h5
+server2.py
+model3.py
+serviceAccountKey.json
+git-access-token
+
+# Dirs
+model
+Data
